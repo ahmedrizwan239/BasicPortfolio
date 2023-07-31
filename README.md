@@ -1,5 +1,5 @@
-# ahsankhan26.github.io
+# ahmedrizwan239.github.io
 
 Personal Static Website
 
-[ahsankhan.me](https://ahsankhan.me)
+Will be live shortly!
